@@ -1,3 +1,4 @@
+# @Autor : Tadeusz Toporkiewicz 
 # 29. Stwórz prostą grę wężyk w Pythonie z użyciem biblioteki Pygame. Gra powinna polegać
 # na ruchu węża, zbieraniu punktów i unikaniu przeszkód. Wykorzystaj moduły do organizacji
 # kodu, obsługę błędów i wyjątków oraz generatory. Dodatkowo, zaimplementuj prostą
