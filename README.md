@@ -13,7 +13,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/retro-snake-game.git
+git clone https://github.com/TadekT/PythonSnakeProject.git
 cd retro-snake-game
 
 Install Pygame:
